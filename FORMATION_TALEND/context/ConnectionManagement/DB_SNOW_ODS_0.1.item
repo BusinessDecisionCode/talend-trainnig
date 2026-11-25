@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<talendfile:ContextType xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:talendfile="platform:/resource/org.talend.model/model/TalendFile.xsd" xmi:id="_4gOnQOgaEfGg4sIWotV6ig" confirmationNeeded="false" hide="false" name="Default">
+  <contextParameter xmi:id="_4gOnQegaEfGg4sIWotV6ig" comment="" name="DB_SNOW_ODS_warehouse" prompt="DB_SNOW_ODS_warehouse?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value=""/>
+  <contextParameter xmi:id="_4gOnQugaEfGg4sIWotV6ig" comment="" name="DB_SNOW_ODS_dbSchema" prompt="DB_SNOW_ODS_dbSchema?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value=""/>
+  <contextParameter xmi:id="_4gOnQ-gaEfGg4sIWotV6ig" comment="" name="DB_SNOW_ODS_database" prompt="DB_SNOW_ODS_database?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value=""/>
+  <contextParameter xmi:id="_4gOnROgaEfGg4sIWotV6ig" comment="" name="DB_SNOW_ODS_jdbcParameters" prompt="DB_SNOW_ODS_jdbcParameters?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value=""/>
+  <contextParameter xmi:id="_4gOnRegaEfGg4sIWotV6ig" comment="" name="DB_SNOW_ODS_account" prompt="DB_SNOW_ODS_account?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value=""/>
+  <contextParameter xmi:id="_4gOnRugaEfGg4sIWotV6ig" comment="" name="DB_SNOW_ODS_userId" prompt="DB_SNOW_ODS_userId?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value=""/>
+  <contextParameter xmi:id="_4gOnR-gaEfGg4sIWotV6ig" comment="" name="DB_SNOW_ODS_password" prompt="DB_SNOW_ODS_password?" promptNeeded="false" repositoryContextId="built-in" type="id_Password" value=""/>
+  <contextParameter xmi:id="_4gOnSOgaEfGg4sIWotV6ig" comment="" name="DB_SNOW_ODS_loginTimeout" prompt="DB_SNOW_ODS_loginTimeout?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value=""/>
+  <contextParameter xmi:id="_4gOnSegaEfGg4sIWotV6ig" comment="" name="DB_SNOW_ODS_role" prompt="DB_SNOW_ODS_role?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value=""/>
+  <contextParameter xmi:id="_4gOnSugaEfGg4sIWotV6ig" comment="" name="DB_SNOW_ODS_jdbcUrlSuffix" prompt="DB_SNOW_ODS_jdbcUrlSuffix?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value=""/>
+</talendfile:ContextType>

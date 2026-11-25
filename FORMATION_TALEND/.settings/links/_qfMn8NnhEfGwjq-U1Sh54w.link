@@ -1,0 +1,38 @@
+{
+  "itemId" : "_qfMn8NnhEfGwjq-U1Sh54w",
+  "contextList" : [ {
+    "contextName" : "Default",
+    "repoId" : "_uJuNoOfyEfGg4sIWotV6ig",
+    "parameterList" : [ {
+      "id" : "_uKSOUefyEfGg4sIWotV6ig",
+      "name" : "DB_SNOW_ODS_password"
+    }, {
+      "id" : "_uKSOUufyEfGg4sIWotV6ig",
+      "name" : "DB_SNOW_ODS_userId"
+    }, {
+      "id" : "_uKSOVOfyEfGg4sIWotV6ig",
+      "name" : "DB_SNOW_ODS_account"
+    }, {
+      "id" : "_uKSOVefyEfGg4sIWotV6ig",
+      "name" : "DB_SNOW_ODS_dbSchema"
+    }, {
+      "id" : "_uKSOWefyEfGg4sIWotV6ig",
+      "name" : "DB_SNOW_ODS_database"
+    }, {
+      "id" : "_uKSOWufyEfGg4sIWotV6ig",
+      "name" : "DB_SNOW_ODS_warehouse"
+    }, {
+      "id" : "_QG1wYOgUEfGg4sIWotV6ig",
+      "name" : "DB_SNOW_ODS_jdbcUrlSuffix"
+    }, {
+      "id" : "_QG1wYegUEfGg4sIWotV6ig",
+      "name" : "DB_SNOW_ODS_role"
+    }, {
+      "id" : "_QG1wYugUEfGg4sIWotV6ig",
+      "name" : "DB_SNOW_ODS_loginTimeout"
+    }, {
+      "id" : "_QG1wY-gUEfGg4sIWotV6ig",
+      "name" : "DB_SNOW_ODS_jdbcParameters"
+    } ]
+  } ]
+}

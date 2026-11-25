@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<talendfile:ContextType xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:talendfile="platform:/resource/org.talend.model/model/TalendFile.xsd" xmi:id="_53MNcOgKEfGg4sIWotV6ig" confirmationNeeded="false" hide="false" name="Default">
+  <contextParameter xmi:id="_53MNcegKEfGg4sIWotV6ig" comment="" name="DirectoryFileSicar" prompt="DirectoryFileSicar?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value=""/>
+  <contextParameter xmi:id="_RWOlUOi8EfGg4sIWotV6ig" comment="" name="DirectoryFileSicarArchive" prompt="DirectoryFileSicarArchive?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value=""/>
+  <contextParameter xmi:id="_Lqj2cOjREfGg4sIWotV6ig" comment="" name="stage_folder" prompt="stage_folder?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value=""/>
+</talendfile:ContextType>
